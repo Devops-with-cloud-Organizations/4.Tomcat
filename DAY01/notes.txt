@@ -1,12 +1,3 @@
-
-
-
-Linux
-Git and github
-Shell scripting
-
-Maven 
-
 Tomcat by KK FUNDA
 ==================
 
